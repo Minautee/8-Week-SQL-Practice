@@ -17,4 +17,4 @@ Danny has shared with you 3 key datasets for this case study:
 
 ### **ERD** 
 <hr>  
-![Screenshot 2024-05-14 181842](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/a79feaeb-9f25-4ab2-b2e8-544f20027c70)
+![ERD](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/a79feaeb-9f25-4ab2-b2e8-544f20027c70, "ERD")
