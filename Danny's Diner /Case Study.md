@@ -11,10 +11,10 @@ He plans on using these insights to help him decide whether he should expand the
 
 Danny has shared with you 3 key datasets for this case study:
 
-1. *sales*  
-2. *menu*  
-3. *members*  
+1. *sales* : The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered. 
+2. *menu* : The menu table maps the product_id to the actual product_name and price of each menu item.
+3. *members* : The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 ### **ERD** 
 <hr>  
-![ERD](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/a79feaeb-9f25-4ab2-b2e8-544f20027c70, "ERD")
+![ERD](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/b3a1652e-7b77-4a23-a70f-89a17f94d9d9.png)
