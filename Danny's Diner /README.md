@@ -14,9 +14,9 @@ He plans on using these insights to help him decide whether he should expand the
 
 Danny has shared with you 3 key datasets for this case study:
 
-1. *sales* : The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered. 
-2. *menu* : The menu table maps the product_id to the actual product_name and price of each menu item.
-3. *members* : The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+1. *[sales](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Schema.sql)* : The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered. 
+2. *[menu](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Schema.sql)* : The menu table maps the product_id to the actual product_name and price of each menu item.
+3. *[members](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Schema.sql)* : The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 ### **ERD** 🔀
 <hr> 
@@ -26,5 +26,5 @@ Danny has shared with you 3 key datasets for this case study:
 ### **Solutions** ✔️
 <hr>
 
-
+View the case study solutions [here](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Solutions.md)
 
