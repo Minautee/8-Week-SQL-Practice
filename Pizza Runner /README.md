@@ -37,5 +37,5 @@ There are some known data issues with this table so be careful when using this i
 View the case study solutions here:
 1. [Pizza Metrics](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Pizza%20Metrics.md)
 2. [Runner and Customer Experience](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Runner%20and%20Customer%20Experience.md)
-3. [Ingredient Opetimisation](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Ingredient%20Optimisation.md)
+3. [Ingredient Optimisation](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Ingredient%20Optimisation.md)
 
