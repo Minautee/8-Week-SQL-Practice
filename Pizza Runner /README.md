@@ -29,9 +29,13 @@ There are some known data issues with this table so be careful when using this i
 ### **ERD** 🔀  
 <hr> 
 <p align="center">
-<img width="491" alt="image" src="https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/454e2161-6b01-4184-80c8-22074f45ca00"      
+<img width="491" alt="image" src="https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/454e2161-6b01-4184-80c8-22074f45ca00" 
 
 ### **Solutions** ✔️
 <hr>
 
-View the case study solutions [here](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Solutions.md)
+View the case study solutions here:
+1. [Pizza Metrics](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Pizza%20Metrics.md)
+2. [Runner and Customer Experience](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Runner%20and%20Customer%20Experience.md)
+3. [Ingredient Opetimisation](https://github.com/Minautee/8-Week-SQL-Practice/blob/e71380c2e2696b896cf8bf754f8674aca781fa17/Pizza%20Runner%20/Ingredient%20Optimisation.md)
+
