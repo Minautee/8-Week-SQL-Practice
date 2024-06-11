@@ -19,10 +19,10 @@ The management team at Data Bank want to increase their total customer base - bu
 
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
-1. *[regions](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Schema.sql)* : This regions table contains the region_id and their respective region_name values.
-2. *[customer nodes](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Schema.sql)* : Customers are randomly distributed across the nodes according to their region - this also specifies exactly which node contains both their cash and data.
+1. *[regions](https://github.com/Minautee/8-Week-SQL-Practice/blob/65d788451954cc870b10884fcefb54122c6759e0/Data%20Bank%20/Schema.sql)* : This regions table contains the region_id and their respective region_name values.
+2. *[customer nodes](https://github.com/Minautee/8-Week-SQL-Practice/blob/65d788451954cc870b10884fcefb54122c6759e0/Data%20Bank%20/Schema.sql)* : Customers are randomly distributed across the nodes according to their region - this also specifies exactly which node contains both their cash and data.
 This random distribution changes frequently to reduce the risk of hackers getting into Data Bank’s system and stealing customer’s money and data!
-3. *[customer transactions](https://github.com/Minautee/8-Week-SQL-Practice/blob/4bba593d131be1294a162e91382e8cea4d681d29/Danny's%20Diner%20/Schema.sql)* : This table stores all customer deposits, withdrawals and purchases made using their Data Bank debit card.
+3. *[customer transactions](https://github.com/Minautee/8-Week-SQL-Practice/blob/65d788451954cc870b10884fcefb54122c6759e0/Data%20Bank%20/Schema.sql)* : This table stores all customer deposits, withdrawals and purchases made using their Data Bank debit card.
 
 ### **ERD** 🔀
 <hr> 
