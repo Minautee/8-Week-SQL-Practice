@@ -8,7 +8,7 @@
 select count(distinct node_id) as "Unique Nodes"
 from customer_nodes;
 ```
-Result:
+Result:  
 ![image](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/6b89b4cd-6f6c-4dff-b007-78f15ec0c61f)
 
 #### 2. What is the number of nodes per region?
@@ -19,7 +19,7 @@ from customer_nodes c
 join regions r on r.region_id = c.region_id
 group by region_name;
 ```
-Result:
+Result:  
 ![image](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/fddb5fe3-9d05-4032-9bb3-218010d4aedf)
 
 #### 3. How many customers are allocated to each region?
@@ -30,7 +30,7 @@ from customer_nodes c
 join regions r on r.region_id = c.region_id
 group by region_name;
 ```
-Result:
+Result:  
 ![image](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/72cdc4be-0a12-4c88-99df-1e66a5df9be2)
 
 #### 4. How many days on average are customers reallocated to a different node?
@@ -50,7 +50,7 @@ total_node_days_cte as (
 select round(avg(total_node_days)) as avg_days_reallocation
 from total_node_days_cte;
 ```
-Result:
+Result:  
 ![image](https://github.com/Minautee/8-Week-SQL-Practice/assets/68679965/c178f2d2-5f9b-44f6-a932-8eb1c2c4c0a7)
 
 #### 5. What is the median, 80th and 95th percentile for this same reallocation days metric for each region?
