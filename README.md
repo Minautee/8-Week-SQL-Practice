@@ -2,7 +2,7 @@
 
 It's an 8-week long SQL case study challenge. The case studies focus on brushing up SQL skills through real-world problems. I've tried to solve these using PostgreSQL on pgadmin4. 
 
-## Case Studies 🔖
+## 🔖Case Studies 
 Access the case studies here:
 
 1. [Danny's Diner](https://github.com/Minautee/8-Week-SQL-Practice/tree/a8c3f2c0166642babd56a80bf6f36dcad0c598e7/Danny's%20Diner%20)
